@@ -1,5 +1,5 @@
 # 💫 About Me:
-I currently working at Unity SPA.<br>I'm FulStack Developer<br>I Study BSCS<br><br>
+I currently open to Work.<br>I'm FulStack Developer<br>I Study BSCS<br><br>
 
 
 ## 🌐 Socials:
