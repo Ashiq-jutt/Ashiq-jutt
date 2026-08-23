@@ -1,5 +1,5 @@
 # 💫 About Me:
-I currently open to Work.<br>I'm FulStack Developer<br>I Study BSCS<br><br>
+I currently open to Work.<br>I'm FulStack Developer<br>I Graduated in BSCS<br>2018-2026<br><br>
 
 
 ## 🌐 Socials:
