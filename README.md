@@ -1,5 +1,13 @@
-# 💫 About Me:
-I'm currently open to work.<br>I'm a Full Stack Developer.<br>BSCS, 2018–2022<br><br>
+# 👋 Hi, I'm Muhammad Ashiq
+
+**Full Stack Developer** specializing in **React Native**, **React** and **Node.js**. I build fast, polished mobile and web apps from first idea to store release.
+
+- 📱 Cross-platform mobile apps with React Native, plus web apps with React and TypeScript
+- 🛠️ Backend APIs with Node.js and .NET, on MySQL, PostgreSQL and Firebase
+- ☁️ Deployments on AWS and Google Cloud, with CI/CD through GitHub Actions
+- 🎓 BS Computer Science (2018–2022)
+- 📍 Based in Pakistan, working with clients worldwide
+- 💼 **Open to full-time and freelance opportunities**: [let's talk](mailto:jtt00088@gmail.com)
 
 
 ## 🌐 Socials:
