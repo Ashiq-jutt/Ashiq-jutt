@@ -1,13 +1,29 @@
 # 👋 Hi, I'm Muhammad Ashiq
 
-**Full Stack Developer** specializing in **React Native**, **React** and **Node.js**. I build fast, polished mobile and web apps from first idea to store release.
+**Senior React Native & Full Stack Developer** with **6+ years of experience** and **100+ React Native apps** delivered. For the last **4 years** I've been working with clients worldwide on **Upwork**, taking apps from first idea to App Store and Google Play release.
 
-- 📱 Cross-platform mobile apps with React Native, plus web apps with React and TypeScript
-- 🛠️ Backend APIs with Node.js and .NET, on MySQL, PostgreSQL and Firebase
-- ☁️ Deployments on AWS and Google Cloud, with CI/CD through GitHub Actions
-- 🎓 BS Computer Science (2018–2022)
-- 📍 Based in Pakistan, working with clients worldwide
-- 💼 **Open to full-time and freelance opportunities**: [let's talk](mailto:jtt00088@gmail.com)
+### 🚀 What I build
+| Category | Examples |
+|---|---|
+| 🍔 **Food & delivery** | Restaurant ordering, food delivery and courier tracking apps |
+| 💳 **Fintech & payments** | Digital wallets, tap-to-pay, transaction history, banking dashboards |
+| 💬 **Social & communication** | Social feeds, real-time chat, dating apps, video calling |
+| 🛒 **E-commerce** | Online stores, grocery apps, product finders, deals and offers |
+| 🚗 **Booking & rental** | Car and bike rental, appointment and reservation systems |
+| 🩺 **Health & fitness** | Doctor appointment and gym/workout apps |
+| 🎬 **Media & streaming** | Movie and video streaming apps |
+| 🕌 **Islamic apps** | Quran reader and Islamic learning apps |
+| 🌾 **Agriculture** | Crop management and cattle farming apps |
+| 🤖 **AI-powered apps** | AI image generation and smart features |
+
+### 🛠️ How I work
+- 📱 Cross-platform iOS and Android apps with **React Native** and **TypeScript**, plus web apps with **React**
+- ⚙️ Backend APIs with **Node.js** and **.NET**, on **MySQL**, **PostgreSQL** and **Firebase**
+- 🔔 Real-time features, push notifications, maps and location, payment gateways, in-app purchases
+- ☁️ Deployments on **AWS** and **Google Cloud**, with CI/CD through **GitHub Actions**
+- 🎓 BS Computer Science (2018–2022) · 📍 Pakistan
+
+💼 **Open to freelance projects and full-time roles**: [let's talk](mailto:jtt00088@gmail.com)
 
 
 ## 🌐 Socials:
