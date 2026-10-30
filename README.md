@@ -35,7 +35,7 @@
 # 📊 GitHub Stats:
 <!-- These images are rebuilt every 6 hours by .github/workflows/metrics.yml -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ashiq-jutt/Ashiq-jutt/main/metrics.general.svg" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/Ashiq-jutt/Ashiq-jutt/main/metrics.stats.svg" alt="GitHub stats" />
 </p>
 
 <p align="center">
