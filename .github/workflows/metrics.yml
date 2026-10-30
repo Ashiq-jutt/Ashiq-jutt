@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 */6 * * *"   # every 6 hours
   workflow_dispatch:         # run manually from the Actions tab
+  push:
+    branches: [main]
+    paths: [.github/workflows/metrics.yml]   # re-run when this file changes
 
 permissions:
   contents: write
@@ -19,9 +22,14 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Ashiq-jutt
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header
           config_timezone: Asia/Karachi
           config_display: large
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_threshold: B
+          plugin_achievements_secrets: no
+          plugin_lines: yes
 
       - name: Most used languages
         uses: lowlighter/metrics@latest
