@@ -32,7 +32,7 @@ def fetch():
              name createdAt
              repositories(ownerAffiliations: OWNER) { totalCount }
              pullRequests { totalCount }
-             repositoriesContributedTo(contributionTypes: [COMMIT, PULL_REQUEST, ISSUE, REPOSITORY]) { totalCount }
+             repositoriesContributedTo(contributionTypes: [COMMIT, PULL_REQUEST, ISSUE, REPOSITORY], includeUserRepositories: true) { totalCount }
            } }""",
         {"login": USER},
     )
